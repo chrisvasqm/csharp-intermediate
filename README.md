@@ -45,3 +45,5 @@ experience) tend to create classes that are purely data containers, and other cl
 purely behaviour (methods) providers. This is not object-oriented programming. This is
 procedural programming. Such programs are very fragile. Making a change breaks many parts
 of the code.
+
+## Section 4 - Inheritance (Second Pillar of OOP)
