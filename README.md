@@ -25,3 +25,5 @@ Educational tip: The aim of this exercise is to make you understand that a class
 We use encapsulation and information hiding to achieve that. The class should not reveal its implementation detail. 
 It only reveals a little bit, like a blackbox. From theoutside, you should not be able to misuse a class because you 
 shouldn’t be able to see the implementation detail. 
+
+### Design a StackOverflow Post
