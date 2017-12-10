@@ -167,3 +167,6 @@ SqlConnection. Execute the command and see the result on the console.
 Then, swap the SqlConnection with an OracleConnection and see polymorphism in action.
 
 ## Section 6 - Interfaces
+
+In this section you will learn what is an interface, how they help testability, how they affect extensability, why they 
+aren't just multiple inheritance and how it relates to polymorphism.
