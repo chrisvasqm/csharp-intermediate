@@ -46,7 +46,7 @@ purely behaviour (methods) providers. This is not object-oriented programming. T
 procedural programming. Such programs are very fragile. Making a change breaks many parts
 of the code.
 
-## Section 4 - Inheritance (Second Pillar of OOP)
+## Section 4 - Inheritance: Second Pillar of OOP
 
 In this section you will learn how do access modifiers and constructors affect inheritance, what is upcasting vs 
 downcasting, and boxing vs unboxing.
@@ -105,3 +105,5 @@ generics, but for now don’t worry about it.
 As you navigate the web, the address of each page you visit is stored in a stack. As you click the
 Back button, the most recent address is popped. This is because of the LIFO behaviour of
 stacks. 
+
+## Section 5 - Polymophism: Third Pillar of OOP
