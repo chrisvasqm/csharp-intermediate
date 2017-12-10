@@ -165,3 +165,5 @@ In the main method, initialize a DbCommand with some string as the instruction a
 SqlConnection. Execute the command and see the result on the console.
 
 Then, swap the SqlConnection with an OracleConnection and see polymorphism in action.
+
+## Section 6 - Interfaces
