@@ -128,3 +128,6 @@ as abstract.
 Derive two classes SqlConnection and OracleConnection from DbConnection and provide a simple implementation of opening 
 and closing connections using Console.WriteLine(). In the real-world, SQL Server provides an API for opening or closing 
 a connection to a database. But for this exercise, we don’t need to worry about it.
+
+### Design a database command
+
