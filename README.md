@@ -47,3 +47,6 @@ procedural programming. Such programs are very fragile. Making a change breaks m
 of the code.
 
 ## Section 4 - Inheritance (Second Pillar of OOP)
+
+In this section you will learn how do access modifiers and constructors affect inheritance, what is upcasting vs 
+downcasting, and boxing vs unboxing.
