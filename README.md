@@ -129,7 +129,7 @@ Derive two classes SqlConnection and OracleConnection from DbConnection and prov
 and closing connections using Console.WriteLine(). In the real-world, SQL Server provides an API for opening or closing 
 a connection to a database. But for this exercise, we don’t need to worry about it.
 
-### Design a database command
+### [Design a database command](https://goo.gl/KbLdbc)
 
 Now that we have the concept of a DbConnection, let’s work out how to represent a
 DbCommand.
