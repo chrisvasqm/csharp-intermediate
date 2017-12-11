@@ -26,7 +26,7 @@ We use encapsulation and information hiding to achieve that. The class should no
 It only reveals a little bit, like a blackbox. From theoutside, you should not be able to misuse a class because you 
 shouldn’t be able to see the implementation detail. 
 
-### Design a StackOverflow Post
+### [Design a StackOverflow Post](https://goo.gl/P8UoW2)
 
 Design a class called Post. This class models a StackOverflow post. It should have properties for title, description 
 and the date/time it was created. We should be able to up-vote or down-vote a post. We should also be able to see the 
