@@ -9,7 +9,7 @@ course made by [Mosh Hamedani](https://github.com/mosh-hamedani) on [Udemy](http
 In this section you will learn about classes, constructors, methods, fields, acess modifiers, properties, indexers and 
 how to initialize an object.
 
-### Design a Stopwatch
+### [Design a Stopwatch](https://goo.gl/Z3evKf)
 
 Design a class called Stopwatch. The job of this class is to simulate a stopwatch. It should provide two methods: 
 Start and Stop. We call the start method first, and the stop method next. Then we ask the stopwatch about the duration 
