@@ -45,6 +45,7 @@
     <Compile Include="Classes\Post.cs"/>
     <Compile Include="Classes\Stopwatch.cs"/>
     <Compile Include="Inheritance\Stack.cs"/>
+    <Compile Include="Polymorphism\DbCommand.cs"/>
     <Compile Include="Polymorphism\DbConnection.cs"/>
     <Compile Include="Polymorphism\OracleConenction.cs"/>
     <Compile Include="Polymorphism\SqlConnection.cs"/>
