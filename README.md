@@ -114,6 +114,7 @@ things in common.
 Your job is to represent these commonalities in a base class called DbConnection. This class should have two properties:
 
 ConnectionString : string
+
 Timeout : TimeSpan
 
 A DbConnection will not be in a valid state if it doesn’t have a connection string. So you need to pass a connection 
@@ -146,9 +147,9 @@ in the constructor and cater for the null reference or an empty string.
 Each command should be executable. So we need to create a method called Execute(). In this
 method, we need a simple implementation as follows:
 
-Open the connection
-Run the instruction
-Close the connection
+- Open the connection
+- Run the instruction
+- Close the connection
 
 Note that here, inside the DbCommand, we have a reference to DbConnection. Depending on
 the type of DbConnection sent at runtime, opening and closing a connection will be different.
