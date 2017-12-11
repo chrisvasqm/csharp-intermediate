@@ -45,6 +45,11 @@
     <Compile Include="Classes\Post.cs"/>
     <Compile Include="Classes\Stopwatch.cs"/>
     <Compile Include="Inheritance\Stack.cs"/>
+    <Compile Include="Interface\FirstActivity.cs"/>
+    <Compile Include="Interface\IActivity.cs"/>
+    <Compile Include="Interface\SecondActivity.cs"/>
+    <Compile Include="Interface\Workflow.cs"/>
+    <Compile Include="Interface\WorkflowEngine.cs"/>
     <Compile Include="Polymorphism\DbCommand.cs"/>
     <Compile Include="Polymorphism\DbConnection.cs"/>
     <Compile Include="Polymorphism\OracleConenction.cs"/>
