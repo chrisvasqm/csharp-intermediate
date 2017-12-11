@@ -172,7 +172,7 @@ Then, swap the SqlConnection with an OracleConnection and see polymorphism in ac
 In this section you will learn what is an interface, how they help testability, how they affect extensability, why they 
 aren't just multiple inheritance and how it relates to polymorphism.
 
-### Design a workflow engine
+### [Design a Workflow Engine](https://goo.gl/4Z1Fvs)
 
 Design a workflow engine that takes a workflow object and runs it. A workflow is a series of steps
 or activities. The workflow engine class should have one method called Run() that takes a
