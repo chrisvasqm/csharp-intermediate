@@ -7,13 +7,15 @@ namespace udemy_csharp_intermediate.Classes
         public string Title { get; set; }
         public string Description { get; set; }
         public int Votes { get; private set; }
-        public DateTime DateCreated { get; }
+        public DateTime DateCreated = DateTime.Now;
 
         public Post(string title, string description)
         {
-            Title = title;
-            Description = description;
-            DateCreated = DateTime.Now;
+            if (String.IsNullOrWhiteSpace(title) || String.IsNullOrWhiteSpace(description))
+                throw new ArgumentException("The title/description cannot be null, empty or whitespace.");
+
+            Title = title.Trim();
+            Description = description.Trim();
         }
 
         public void UpVote()
