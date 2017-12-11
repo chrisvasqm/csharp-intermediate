@@ -48,7 +48,7 @@ This is procedural programming. Such programs are very fragile. Making a change 
 In this section you will learn how do access modifiers and constructors affect inheritance, what is upcasting vs 
 downcasting, and boxing vs unboxing.
 
-### Design a Stack
+### [Design a Stack](https://goo.gl/KKmL8W)
 
 A Stack is a data structure for storing a list of elements in a LIFO (last in, first out) fashion.
 Design a class called Stack with three methods.
