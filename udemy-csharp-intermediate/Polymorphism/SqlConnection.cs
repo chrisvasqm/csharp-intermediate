@@ -10,12 +10,12 @@ namespace udemy_csharp_intermediate.Polymorphism
 
         public override void Open()
         {
-            Console.WriteLine("SqlConnection was opened.");
+            Console.WriteLine("SqlConnection is open.");
         }
 
         public override void Close()
         {
-            Console.WriteLine("SqlConnection was closed.");
+            Console.WriteLine("SqlConnection is closed.");
         }
     }
 }
