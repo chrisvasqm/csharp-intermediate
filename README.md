@@ -6,8 +6,8 @@ course made by [Mosh Hamedani](https://github.com/mosh-hamedani) on [Udemy](http
 
 ## Section 2 - Classes
 
-In this section you will learn about classes, constructors, methods, fields, acess modifiers, properties, indexers and 
-how to initialize an object.
+In this section you will learn about _classes_, _constructors_, _methods_, _fields_, _access modifiers_, _properties_, _indexers_ and 
+how to initialize an _object_.
 
 ### [Design a Stopwatch](https://goo.gl/Z3evKf)
 
