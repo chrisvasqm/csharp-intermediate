@@ -100,7 +100,7 @@ popped. This is because of the LIFO behaviour of stacks.
 
 ## Section 5 - Polymophism: Third Pillar of OOP
 
-### [Design a database connection](https://goo.gl/7WcU5k)
+### [Design a database connection](https://goo.gl/YvJJ3j)
 
 To access a database, we need to open a connection to it first and close it once our job is done. Connecting to a 
 database depends on the type of the target database and the database management system (DBMS). For example, connecting 
